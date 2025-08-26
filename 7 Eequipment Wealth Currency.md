@@ -47,6 +47,20 @@ An item's **Availability** rank provides a direct guideline for its market price
 * **Range (X/Y):** For ranged or thrown attacks. Attacks at long range (Y) suffer a Major Setback (-2).
 * **Reach:** You can make melee attacks against targets up to 10 feet away.
 * **Two-Handed:** Requires two hands to wield.
+> **New Firearm Traits:**
+> * ***Loud:*** Firing this weapon is extremely loud, breaking stealth and potentially deafening those nearby.
+> * ***Misfire (X):*** On a d100 attack roll of X or lower, the weapon fails to fire and is jammed. It requires an Interact (►) action and a successful `DR 4` `Intellect + Crafting` check to clear.
+> * ***Reload (X):*** This weapon requires X Interact (►) actions to reload after being fired.
+> **Loading Trait (from previous era):**
+> * ***Loading:*** This weapon requires a single Interact (►) action to reload after being fired.
+> **New Industrial Traits:**
+> * ***Powered (Fuel):*** This item requires a fuel source (like coal or aetheric cells) to function. It typically has a limited operational time before needing refueling.
+> * ***Repeating (X):*** This weapon can be fired X times before it must be reloaded. Reloading takes 2 Interact (►) actions.
+> * ***Loud:*** Firing this weapon is extremely loud, breaking stealth and audible for up to a mile.
+> * ***Silent:*** This weapon makes very little noise when fired, imposing a **Major Setback (-2)** on Perception checks to hear it.
+> * ***Automatic:*** As a single Strike action, this weapon can attack a single target multiple times or multiple targets in a cone. This consumes a large amount of ammunition.
+> * ***Reload (X):*** This weapon requires X Interact (►) actions to reload.
+> * ***Area Effect:*** This attack affects a small area, hitting the target and potentially those adjacent to it.
 
 #### **Expert Traits (Require Expertise)**
 * **Agile:** You can use your Agility instead of Might for attack and damage rolls.
@@ -63,6 +77,7 @@ An item's **Availability** rank provides a direct guideline for its market price
 * **Quickdraw:** You can draw this weapon as part of the same action used to attack with it.
 * **Versatile:** This one-handed weapon can be used with two hands. When used with two hands, increase its damage die by one step (d6->d8, d8->d10).
 * **Vicious:** A critical hit deals one additional die of damage.
+> *New Expert Trait: **Flexible**. This armor does not impose a Setback on Stealth checks.*
 
 ### 7.4 Equipment Tables
 #### **Unarmed Attacks**

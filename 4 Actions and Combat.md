@@ -83,3 +83,35 @@ This section details the common actions available to characters. No action, unle
 | Cognitive Shift | —   | When subjected to a mental effect, make a Resolve test to overcome it.       |
 | Sudden Insight  | —   | Spend 1 focus to make a Wits test to predict an opponent's goal.            |
 | Willful Denial  | —   | Before a Mental check against you, spend 1 focus to impose a **Minor Setback**.     |
+
+## 4.3 Travel & Exploration
+These rules govern long-distance travel, whether on foot, mounted, or by sea. They represent narrative-scale movement, where time is measured in hours or days rather than combat rounds.
+
+### Overland Travel
+The base speed for a group on foot is **20 miles per day**, assuming roughly 8 hours of travel. This speed is modified by the terrain the group is crossing and the pace they set.
+
+#### Terrain Effects
+| Terrain Type      | Speed Modifier | Example Distance |
+|-------------------|:--------------:|------------------|
+| Road / Plains     | Full Speed     | 20 miles/day     |
+| Forest / Hills    | 3/4 Speed      | 15 miles/day     |
+| Mountain / Swamp  | 1/2 Speed      | 10 miles/day     |
+
+#### Travel Pace
+* **Normal Pace:** The group travels for 8 hours, covering the standard distance determined by their speed and the terrain.
+* **Fast Pace (Forced March):** The group travels for 12+ hours to cover more ground. They cover 1.5 times the normal distance for the day (e.g., 30 miles on a road). At the end of the day, each character must succeed on a `DR 5` Vigor resistance check or suffer fatigue (a **Minor Setback (-1)** to all Physical checks) until they take a Long Rest.
+* **Slow Pace:** The group travels cautiously, covering half the normal distance (e.g., 10 miles on a road). This pace allows the group to use skills like `Stealth` to remain hidden or `Perception` to spot ambushes without penalty.
+
+> **Note on Movement Speed:** These rules are for narrative overland travel and do not replace the tactical movement speeds used in combat. Talents that increase tactical speed, like the Scoundrel's `Fleet Footed`, do not directly add to these daily totals, though a GM might grant a small circumstantial bonus (e.g., +1 or +2 miles per day) to a party with exceptionally fast members.
+
+### Naval Travel
+Travel by sea is dependent on the vessel and the prevailing conditions. Each vessel's base speed is listed in its equipment profile.
+
+* **Wind Conditions:** At the start of each day of sea travel, the GM determines the winds.
+    * **Favorable Winds:** The wind is strong and blows in the direction of travel. A sailing vessel's speed is doubled for the day.
+    * **Unfavorable Winds:** The wind blows against the direction of travel. A sailing vessel's speed is halved. Rowed vessels are unaffected if they rely on oars.
+    * **Becalmed / No Wind:** There is no wind to fill the sails. Sailing vessels that lack oars cannot move.
+    * **Storms:** Severe weather makes travel impossible and may require skill checks from the crew to navigate the danger and avoid damage to the ship.
+
+### Using Skills in Travel
+Characters can use their skills to overcome the challenges of a long journey. For example, a character might make an `Intellect + Survival` check to navigate a faster path through the wilderness, potentially negating the speed penalty from difficult terrain for one day on a successful roll.
