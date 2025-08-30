@@ -9,7 +9,10 @@ Every action begins by calculating the "Difference" between the actor's score an
     `x = (Character’s Attribute + Skill) − (Task’s Difficulty Rank)`
 
 ### 1.2 The Action Resolution Table
+### 1.2 The Action Resolution Table
 The calculated Difference (x) is used to find a Target Number (TN) on the d100 table below. To succeed, a player must roll equal to or greater than the TN on a d100.
+
+The probabilities in the table are derived from the logistic function $\frac{1}{1+e^{-\frac{1}{2}x}}$. The values have been manually smoothed to ensure a unique target number for each integer of the Difference `(x)` and are capped at a Difference of +10 (for a 100% chance of success) and -10 (for a 0% chance of success).
 
 | Difference (x) | d100 Target (TN) | Chance of Success |
 | :--- | :--- | :--- |
@@ -38,13 +41,13 @@ The calculated Difference (x) is used to find a Target Number (TN) on the d100 t
 ### 1.3 Unopposed Actions & Difficulty Ranks (DR)
 A static challenge is assigned a Difficulty Rank (DR), which acts as the opposition's score.
 
-| Difficulty Rank (DR) | Description |
-| :--- | :--- |
-| 1-2 | Trivial: A simple task that a professional would barely need to think about. |
-| 3-5 | Standard: A professional challenge requiring focus and skill. |
-| 6-8 | Challenging: A task that would push a skilled individual to their limits. |
-| 9-10 | Heroic: A feat that is difficult even for the greatest masters of the craft. |
-| 11+ | Legendary: A feat that borders on the impossible. |
+| Difficulty Rank (DR) | Description | Example Tasks |
+| :--- | :--- | :--- |
+| 1-2 | Trivial: A simple task that a professional would barely need to think about. | Picking a simple lock; Recalling a common historical fact; Convincing a friendly guard to let you pass. |
+| 3-5 | Standard: A professional challenge requiring focus and skill. | Disarming a simple tripwire trap; Crafting a standard longsword; Persuading a skeptical merchant for a discount. |
+| 6-8 | Challenging: A task that would push a skilled individual to their limits. | Picking a complex vault lock; Deciphering a coded message; Performing field surgery to set a broken bone. |
+| 9-10 | Heroic: A feat that is difficult even for the greatest masters of the craft. | Translating a forgotten, pre-cataclysmic language; Forging a flawless masterwork weapon; Calming a panicked crowd during a disaster. |
+| 11+ | Legendary: A feat that borders on the impossible. | Crafting a legendary artifact; Devising a plan to outwit a demigod; Recalling a secret known only to the world's creators. |
 
 ### 1.4 Edges & Setbacks (Situational Modifiers)
 This system uses predictable math that plugs directly into the Difference `(x)`.

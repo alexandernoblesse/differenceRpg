@@ -1,4 +1,9 @@
 ## 4.0 Action & Combat
+
+The combat systems detailed in this section—whether Physical, Social, or Mental—are designed for dramatic situations where the outcome is uncertain and meaningful to the story. For simpler or less critical tasks, a single action roll is often sufficient to resolve the outcome.
+
+The GM should use the full combat system when the stakes are high and a blow-by-blow description of the conflict would add tension and excitement to the game. In trivial cases where the outcome is not as critical, a single roll can be used. For example, haggling with a shopkeeper for a minor discount should be resolved with a single `Bargain` action rather than a full social combat encounter. Similarly, a quick scuffle that is over in a moment can be handled with a single opposed `Strike` check, while a duel to the death would use the full combat rules.
+
 ### 4.1 Action Economy
 * **Rounds and Turns:** Combat is organized into rounds. On your turn, choose to act fast or slow.
     * **Fast Turn:** Act before enemies, gain two actions (►►).
