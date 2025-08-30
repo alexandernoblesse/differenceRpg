@@ -11,6 +11,20 @@
 **The Core Rule: One Prefix Per Turn**
 On your turn, you may only perform one action of any given prefix unless the action explicitly states otherwise. This applies to all actions on the Action Lists, as well as special actions granted by talents.
 
+### 4.1.2 Tactical Movement Speed
+A character's tactical movement speed, which is the distance they can travel with a single `Move` action (►), is determined by their Agility attribute rank.
+
+| Agility Rank | Movement Speed per Action (►) |
+| :--- | :--- |
+| 0 | 20 feet |
+| 1–2 | 25 feet |
+| 3–4 | 30 feet |
+| 5–6 | 40 feet |
+| 7–8 | 60 feet |
+| 9+ | 80 feet |
+
+This base speed can be modified by various effects, such as the `Fleet Footed` talent, which increases this value by 5 feet, or injuries like a `Twisted Ankle`, which reduces it by 10 feet.
+
 ## 4.2 Action Lists
 
 This section details the common actions available to characters. No action, unless specifically stated, can be used more than once per turn.
