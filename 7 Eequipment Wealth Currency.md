@@ -32,6 +32,16 @@ An item's **Availability** rank provides a direct guideline for its market price
 | 4 | Very Rare | 1,000 gp - 10,000 gp |
 | 5 | Legendary | 10,000+ gp (or not for sale) |
 
+### 7.2.1 Armor and Soak
+
+Armor provides a character with a Soak value, which reduces incoming Vitality damage from physical attacks. This value is functionally the same as Damage Reduction, a term used by talents that provide a similar benefit.
+
+A character's total Soak is the sum of the Soak value from their worn armor plus any bonuses from talents or other effects. Each type of armor will have a Soak value listed in its equipment profile. When a character with Soak takes Vitality damage from an attack, the damage is reduced by their total Soak value before being applied to their Vitality pool.
+
+* **Example:** A character wearing armor that provides **Soak 2** who also has the `Resilience` talent (granting Damage Reduction 1) would have a total **Soak of 3**. If this character is hit by an attack for 8 Vitality damage, they reduce the damage by 3 and only take 5 Vitality damage.
+
+Certain effects can modify this value. Talents like the Bastion's `Shield Block` or armor traits like `Bulwark` can temporarily increase a character's Soak. Conversely, some weapon traits like `Breaching` can allow an attack to ignore a target's Soak.
+
 ### 7.2 Equipment Rules
 * **Social Impact of Armor:** Wearing noticeable armor in formal or civil settings can impose a **Minor Setback (-1)** on some social checks.
 * **Expertise:** An item's standard **Traits** are always active. Its **Expert Traits** only provide their benefit if you have the relevant Expertise for that specific item category.

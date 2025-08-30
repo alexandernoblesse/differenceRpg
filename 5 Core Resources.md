@@ -6,7 +6,9 @@ Momentum is a resource representing the flow of a scene. Max 5 per player, and m
 * **Gaining:** A player gains 1 on a successful roll. The GM gains 1 on a player's failed roll.
 * **Spending Player Momentum:**
     * **Push Your Luck (1-3):** Spend 1 Momentum to gain a **Minor Edge (+1 to x)** on a roll. You can spend up to 3 Momentum to gain up to an **Overwhelming Edge (+3 to x)**, respecting the standard cap.
-    * **Declare a Critical (3):** If a declared roll succeeds, it's a best-possible result.
+    * **Declare a Critical (3):** Spend 3 Momentum before you roll. If the declared roll succeeds, it is treated as a critical success, representing the best possible outcome. The roll must still meet or beat the Target Number to succeed.
+        * **Example (Attack):** A critical success on an attack roll automatically deals the maximum possible damage from all weapon and damage dice, instead of rolling for damage.
+        * **Example (Skill):** A critical success on a Persuasion check might not only convince the skeptical merchant to give you a discount, but also cause them to offer you a rare item from their private stock.
     * **Power Attack (2):** Roll weapon damage an additional time.
     * **Called Shot (2):** Bypass half armor or inflict a minor injury.
     * **Clutch Save (4):** Turn a failed roll into a simple success.

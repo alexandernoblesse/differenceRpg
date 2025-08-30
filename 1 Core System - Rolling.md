@@ -60,3 +60,50 @@ This system uses predictable math that plugs directly into the Difference `(x)`.
     * **Minor Edge/Setback:** `±1` to `(x)`
     * **Major Edge/Setback:** `±2` to `(x)`
     * **Overwhelming Edge/Setback:** `±3` to `(x)`
+
+### 1.5 Glossary of Terms & Conditions
+
+* **Action (►)**: A primary task a character can perform on their turn. Actions have a cost, typically one or more action points.
+* **Afflicted**: While Afflicted, you take damage over time. At the end of each of your turns, you take a specified amount of direct damage to one of your Health Pools (Vitality, Poise, or Clarity). The effect specifies the damage in brackets (e.g., Afflicted [1d6 Vitality]). You can be Afflicted by multiple sources simultaneously; resolve each instance of damage separately.
+* **Availability**: A rank from 1 to 5 that represents an item's rarity and provides a guideline for its market price.
+* **Blinded**: A blinded character's attacks suffer a -5 penalty to the Difference (x), and attacks made against them gain a +5 bonus to the Difference (x).
+* **Burden**: A social Wound a character receives when their Poise pool is reduced to 0.
+* **Challenged**: A challenged enemy suffers a -3 penalty to the Difference (x) on any attack that does not include the character who challenged them as a target.
+* **Clarity**: A Health Pool representing a character's mental fortitude and willpower.
+* **Dazed**: A dazed character suffers a -2 penalty to the Difference (x) on all checks and cannot use reactions.
+* **Defeated**: A character is defeated when their accumulated Wounds of a single type (Injuries, Burdens, or Traumas) equal their corresponding Resistance Attribute.
+* **Determined**: While Determined, if you fail a check, you can choose to treat the result as a simple success instead. After you use this ability, you are no longer Determined.
+* **Difference (x)**: The numerical result of subtracting the opposition's score from the actor's score (`Actor’s Attribute + Skill` − `Opposition Score`), which is then used to find the Target Number for a d100 roll.
+* **Difficulty Rank (DR)**: A static value from 1 to 11+ that serves as the opposition's score for an unopposed action.
+* **Disoriented**: While Disoriented, your senses are disrupted. You cannot use Reactions and suffer a **Minor Setback (-1 to x)** on all Perception checks and other checks that rely heavily on your senses.
+* **Edge**: A positive situational modifier that adds to the Difference `(x)` on a roll. A Minor Edge is +1, Major is +2, and Overwhelming is +3.
+* **Empowered**: While Empowered, you are filled with a burst of power. You gain a **Minor Edge (+1 to x)** on all checks, and your Focus pool refills to its maximum at the start of each of your turns. This condition is removed at the end of the scene.
+* **Enhanced**: While Enhanced, one of your attributes is temporarily increased. The specific attribute and bonus are noted in brackets (e.g., Enhanced [+1 Agility]). This bonus applies to any checks made using that attribute but does not change your derived statistics like Health Pools, Focus, or passive Defense scores.
+* **Exhausted**: While Exhausted, you are fatigued. When you gain this condition, it includes a value in brackets (e.g., Exhausted [-1]). You suffer a **Setback** equal to this value on the Difference `(x)` for all checks you make. After each Long Rest, reduce the Setback value by 1; the condition is removed when the value reaches 0. This condition is cumulative.
+* **Expertise**: A deep, focused understanding of a specific field, such as a piece of equipment or an area of knowledge. Expertise is required to benefit from an item's Expert Traits.
+* **Fast Turn**: A turn in combat where a character gains two actions (►►) and acts before enemies.
+* **Focus**: A personal pool of energy used to power special abilities, such as Reactions and certain powerful Talents.
+* **Focused**: While Focused, the Focus cost of any action or ability you use is reduced by 1.
+* **Free Action (▷)**: A minor task, such as speaking a short sentence, that does not cost an action point.
+* **Immobilized**: While Immobilized, your movement speed is 0, and you cannot use the `Move` action. You cannot be moved by external effects like the `Shove` action.
+* **Injury**: A physical Wound a character receives when their Vitality pool is reduced to 0.
+* **Momentum**: A shared resource representing the flow of a scene, gained on successful rolls (by players) or failed rolls (by the GM), with a maximum of 5 for each side.
+* **Pacified**: A pacified character will not take hostile actions unless they or their allies are attacked first.
+* **Poise**: A Health Pool representing a character's social grace and composure.
+* **Prone**: While Prone, you are lying on the ground. You are considered **Slowed**, and melee `Strike` actions made against you gain a **Minor Edge (+1 to x)**. You can use the `Brace` action without needing to be near cover. Standing up requires using a `Move` action (►).
+* **Reaction ( )**: An action taken outside of a character's turn in response to a specific trigger. A character typically has one Reaction per round.
+* **Recovery Dice**: A resource pool representing a character's resilience, which they can spend to make a Recovery Roll to restore Health Pools and Focus.
+* **Restrained**: While Restrained, your movement speed is 0. You suffer a **Minor Setback (-1 to x)** on all checks, except for those made to escape the effect causing the condition.
+* **Setback**: A negative situational modifier that subtracts from the Difference `(x)` on a roll. A Minor Setback is -1, Major is -2, and Overwhelming is -3.
+* **Slow Turn**: A turn in combat where a character gains three actions (►►►) and acts after fast-moving enemies.
+* **Slowed**: While Slowed, your movement speed per `Move` action is halved (rounded down to the nearest 5-foot increment).
+* **Soak**: A character's ability to reduce incoming physical damage. This value is referred to as Soak (typically from armor) or Damage Reduction (often from talents). When a character with Soak takes Vitality damage from an attack, the damage is reduced by their Soak value.
+* **Stunned**: While Stunned, you are overwhelmed and cannot act effectively. You lose any Reactions you have, and on your turn, you gain two fewer action points (►►).
+* **Surprised**: While Surprised at the start of combat, you lose any Reactions you have. On your first turn, you cannot take a Fast Turn and you gain one fewer action point (►). This condition is removed after you take your first turn.
+* **Target Number (TN)**: The number on a d100 that a player must roll equal to or greater than to succeed on an action.
+* **Tier of Play**: A range of character levels (e.g., Tier 1 is Levels 1-5) that defines the general scope of their adventures and the size of their Recovery Dice pool.
+* **Trauma**: A mental Wound a character receives when their Clarity pool is reduced to 0.
+* **Unconscious**: While Unconscious, you are incapacitated. Your movement speed is 0, you fall **Prone**, and you drop anything you are holding. You are unaware of your surroundings and cannot communicate or take any actions or Reactions. A PC can choose to regain consciousness with 1 Vitality at the end of one of their turns.
+* **Vitality**: A Health Pool representing a character's physical health and stamina.
+* **Wealth**: An abstract rank from 0 to 5 that represents a character's purchasing power and ability to acquire goods without tracking currency.
+* **Wound**: A general term for the consequences of a Health Pool being reduced to 0. Wounds are categorized as Injuries, Burdens, and Traumas.
