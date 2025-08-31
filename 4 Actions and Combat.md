@@ -56,7 +56,7 @@ This section details the common actions available to characters. No action, unle
 |-----------------|:---:|------------------------------------------------------------------------------|
 | Aid             | —   | Before an ally makes a skill check, spend 1 focus to grant them a **Minor Edge**.|
 | Avoid Danger    | —   | Make an Agility test to try to evade an environmental threat.               |
-| Dodge           | —   | Before an enemy attacks you, spend 1 focus to impose a **Minor Setback** on their attack. |
+| Dodge           | —   | Before an enemy attacks you, spend 1 focus to impose a **Major Setback** on their attack. |
 | Reactive Strike | —   | When an enemy leaves your reach, spend 1 focus to make a melee attack.      |
 
 ---

@@ -9,7 +9,6 @@ Every action begins by calculating the "Difference" between the actor's score an
     `x = (Character’s Attribute + Skill) − (Task’s Difficulty Rank)`
 
 ### 1.2 The Action Resolution Table
-### 1.2 The Action Resolution Table
 The calculated Difference (x) is used to find a Target Number (TN) on the d100 table below. To succeed, a player must roll equal to or greater than the TN on a d100.
 
 The probabilities in the table are derived from the logistic function $\frac{1}{1+e^{-\frac{1}{2}x}}$. The values have been manually smoothed to ensure a unique target number for each integer of the Difference `(x)` and are capped at a Difference of +10 (for a 100% chance of success) and -10 (for a 0% chance of success).

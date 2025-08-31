@@ -10,13 +10,50 @@ Characters advance through XP or Milestones.
 * **Tier 4:** National Leaders (Levels 16–20)
 * **Tier 5:** World Shapers (Levels 21+)
 
-#### 9.3 Level-Up Benefits
-When your character gains a level, they receive new benefits to reflect their growing experience. The maximum rank for any attribute or skill that can be achieved through leveling is 5. Surpassing this limit requires extraordinary means, such as powerful magic or technology, as determined by the Game Master.
+### 9.3 Skill Rank Cap by Tier
+The maximum rank a character can have in any skill is now limited by their current Tier of Play. The cap is calculated as follows:
 
-* **Talent Point:** At every **even-numbered level** (2, 4, 6, etc.), you gain one Talent Point. After level 20, no more talent points are gained unless the GM approves it. You can spend this immediately on any talent for which you meet the prerequisites within your three chosen Talent Trees.
-* **Skill Point:** At levels **2, 5, 8, 11, 14, 17, and 20**, you gain one Skill Point. After level 20, no more skill points are gained unless the GM approves it. You can spend this to increase the rank of any skill by one, not to exceed the maximum rank of 5 (Grandmaster).
-* **Attribute Point:** At every **fourth level** (4, 8, 12, 16, and 20), you gain one Attribute Point. After level 20, no more attributes points are gained unless the GM approves it. You can increase any of the nine attributes by one, not to exceed the maximum rank of 5.
-    * **Capped Attribute Option:** If you are awarded an Attribute Point but all of your attributes are already at Rank 5, you may instead gain one new **Expertise** selection.
+`Maximum Skill Rank = Current Tier of Play + 1`
+
+This tiered limit governs how Skill Points can be spent upon leveling up.
+
+| Tier of Play | Level Range | Maximum Skill Rank | Skill Title |
+| :--- | :--- | :--- | :--- |
+| **Tier 1** | Levels 1–5 | **Rank 2** | Competent |
+| **Tier 2** | Levels 6–10 | **Rank 3** | Expert |
+| **Tier 3** | Levels 11–15 | **Rank 4** | Master |
+| **Tier 4** | Levels 16–20 | **Rank 5** | Grandmaster |
+| **Tier 5** | Levels 21+ | **Rank 5** | Grandmaster |
+
+### 9.4 Level-Up Progression
+When your character gains a level, they receive the benefits listed in the table below. This structure ensures a reward at every level.
+
+* **Talent Point:** At every **even-numbered level** (2, 4, 6, etc.), you gain one Talent Point.
+* **Attribute Point:** At every **fourth level** (4, 8, 12, 16, and 20), you gain one Attribute Point.
+* **Skill Point:** You gain one Skill Point at levels 2, 3, 5, 7, 8, 9, 11, 13, 14, 15, 17, 19, and 20.
+
+| Level | Tier | Max Skill Rank | Benefit(s) |
+| :---: |:---:|:---:|:-----------|
+| 1 | 1 | 2 | Character Creation |
+| 2 | 1 | 2 | Talent Point, Skill Point |
+| 3 | 1 | 2 | **Skill Point** |
+| 4 | 1 | 2 | Talent Point, Attribute Point |
+| 5 | 1 | 2 | Skill Point |
+| 6 | 2 | 3 | Talent Point |
+| 7 | 2 | 3 | **Skill Point** |
+| 8 | 2 | 3 | Talent Point, Skill Point, Attribute Point |
+| 9 | 2 | 3 | **Skill Point** |
+| 10 | 2 | 3 | Talent Point |
+| 11 | 3 | 4 | Skill Point |
+| 12 | 3 | 4 | Talent Point, Attribute Point |
+| 13 | 3 | 4 | **Skill Point** |
+| 14 | 3 | 4 | Talent Point, Skill Point |
+| 15 | 3 | 4 | **Skill Point** |
+| 16 | 4 | 5 | Talent Point, Attribute Point |
+| 17 | 4 | 5 | Skill Point |
+| 18 | 4 | 5 | Talent Point |
+| 19 | 4 | 5 | **Skill Point** |
+| 20 | 4 | 5 | Talent Point, Skill Point, Attribute Point |
 
 ## 10.0 Systems Pending Development
 * **Momentum System Overhaul:** Redesigning Momentum to be a "Flow State" mechanic.
