@@ -248,4 +248,4 @@ These are unique, powerful artifacts from the lost Aerian civilization. They are
 
 | Item | Skill | Damage | Range | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ollie's Pistol** | Ranged | 1d10 | 60/240 | This weapon functions as a modern handgun. It has the traits: **Repeating (12), Silent**. It has the Expert Traits: **Agile, Quickdraw**. Additionally, due to its superior craftsmanship and perfect balance, all attacks made with this pistol gain a permanent **Minor Edge (+1 to x)**. |
+| **Ollie's Pistol** | Ranged | 1d10 | 60/240 | This weapon functions as a modern handgun. It has the traits: **Repeating (12), Silent**. It has the Expert Traits: **Agile, Quickdraw, Offhand**. Additionally, due to its superior craftsmanship and perfect balance, all attacks made with this pistol gain a permanent **Minor Edge (+1 to x)**. |

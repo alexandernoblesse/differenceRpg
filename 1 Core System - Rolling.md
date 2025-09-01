@@ -60,7 +60,35 @@ This system uses predictable math that plugs directly into the Difference `(x)`.
     * **Major Edge/Setback:** `±2` to `(x)`
     * **Overwhelming Edge/Setback:** `±3` to `(x)`
 
-### 1.5 Glossary of Terms & Conditions
+### 1.5 Extended Tasks
+
+Extended Tasks are used to resolve complex actions that require a significant investment of time and effort, where a single roll would not adequately represent the process. These tasks are not finished until they are completed, failed, or the character gives up. Examples include crafting a masterwork item, researching an ancient ritual, tracking a target across the wilderness, or engaging in a lengthy chase.
+
+To set up an Extended Task, the Game Master determines three key components:
+
+1.  **The Check:** The specific `Attribute + Skill` combination used for each roll in the task, and the opposition, which can either be a static Difficulty Rank (DR) for unopposed actions or an opponent's score for contested actions.
+2.  **Success Threshold:** The total number of successful rolls a character must accumulate to complete the task. This is set by the GM based on the task's complexity (e.g., 3 for a standard task, 5 for a complex one, 10+ for a monumental effort).
+3.  **Time Interval:** The amount of in-game time that passes with each roll. This is determined by the nature of the task. A roll could represent seconds (disarming a bomb), minutes (a chase), hours (research), days (crafting), or even weeks (translating a tome).
+
+#### **Resolving the Task**
+
+The player makes a series of checks. Each roll that meets or exceeds its Target Number (TN) adds one success to a running total. The task is successfully completed when the character's accumulated successes equal or exceed the Success Threshold.
+
+#### **Failure and Complications**
+
+Not all Extended Tasks carry the same risks. The GM decides which of the following models best fits the situation:
+
+* **Persistence Model (No Failure Condition):** For low-risk tasks like crafting a non-volatile item or researching common history, a failed roll simply means no progress was made during that Time Interval. The character can continue making checks until they eventually reach the Success Threshold, with the only cost being the time spent.
+
+* **Contested Model:** This is used when a character is in a direct race against an opponent, such as a chase, a debate, or two blacksmiths competing to finish a commission first. Both sides have a Success Threshold. They make opposed checks at each Time Interval, and the first to accumulate the required number of successes wins the contest.
+
+* **Complications Model:** For high-stakes tasks, each failed roll introduces a Complication. The GM sets a **Failure Threshold** (e.g., 3 Complications). If the character accumulates a number of Complications equal to the Failure Threshold before they reach the Success Threshold, the entire task fails, often with negative consequences.
+    * A Complication could be narrative (e.g., making a loud noise while sneaking) or mechanical (e.g., imposing a **Minor Setback** on future checks for this task).
+    * On a player's failed roll, the GM may also gain 1 Momentum as usual.
+
+* **Time Limit Model:** The task must be completed within a certain number of rolls (and thus, a certain amount of time). For example, if a character must pick a vault lock (Success Threshold 5) before the guards return in five minutes (Time Interval of one minute per roll), they have only five rolls to achieve the five successes.
+
+### 1.6 Glossary of Terms & Conditions
 
 * **Action (►)**: A primary task a character can perform on their turn. Actions have a cost, typically one or more action points.
 * **Afflicted**: While Afflicted, you take damage over time. At the end of each of your turns, you take a specified amount of direct damage to one of your Health Pools (Vitality, Poise, or Clarity). The effect specifies the damage in brackets (e.g., Afflicted [1d6 Vitality]). You can be Afflicted by multiple sources simultaneously; resolve each instance of damage separately.

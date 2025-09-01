@@ -55,7 +55,24 @@ When your character gains a level, they receive the benefits listed in the table
 | 19 | 4 | 5 | **Skill Point** |
 | 20 | 4 | 5 | Talent Point, Skill Point, Attribute Point |
 
-## 10.0 Systems Pending Development
+## 10.0 GM Toolkit
+This section provides tools and guidelines for the Game Master to create adversaries, balance encounters, and manage the game.
+
+### 10.1 Quick NPC Generation
+These guidelines are designed to help the GM quickly create stats for non-player characters (NPCs) without extensive setup.
+
+#### **Humanoid NPCs**
+* **Attributes:** An attribute rank of 2 is considered average for a typical person. For most standard human NPCs like guards, merchants, or commoners, you can assume their attributes are Rank 2. An NPC who is particularly adept in one area might have a Rank 3 in the relevant attribute, while one who is deficient would have a Rank 1.
+
+* **Skills:** An NPC's skill ranks are determined by their profession and experience level.
+    * **Primary Skills:** For skills directly related to their job, assign a rank based on their proficiency. A Novice would have Rank 1, a Competent professional would have Rank 2, and a seasoned Expert would have Rank 3.
+    * **Tangential Skills:** For skills that are related but not core to their profession, assign a Rank of 1 or 2. For instance, a blacksmith (Primary Skill: Crafting) might have Athletics at Rank 1 as a tangential skill.
+    * **Unrelated Skills:** For all other skills, the NPC is likely Untrained (Rank 0).
+
+#### **Animal NPCs**
+* **Vigor:** For animals and non-sentient creatures, their Vigor attribute is often directly related to their physical size. Bigger animals can typically endure more punishment and thus have a higher Vigor score. A small animal might have a Vigor of 1, while a large, durable beast could have a Vigor of 4 or 5.
+
+## 11.0 Systems Pending Development
 * **Momentum System Overhaul:** Redesigning Momentum to be a "Flow State" mechanic.
 * **Full Talent Tree List:** Creating the complete lists of talents that allow characters to gain Expertise and use special Techniques.
 * **GM Toolkit:** Guidelines for creating adversaries, balancing encounters, and managing the game.

@@ -1,6 +1,17 @@
 ## 3.0 Attributes & Skills
+By default, Attributes and Skills have a maximum rank of 5, representing the peak of mortal potential. However, supernatural forces, advanced technology, or other extraordinary circumstances may allow a character to temporarily or permanently increase a score beyond this limit.
+
 ### 3.1 Attributes
-Attributes are ranked from 1 to 5.
+Attributes are ranked from 1 to 5. The rank determines a character's raw, innate potential in a given area.
+
+| Rank | Title | Description |
+| :--- | :--- | :--- |
+| 1 | Deficient | Noticeably below average; a clear area of weakness. |
+| 2 | Average | The standard capability of a typical person. |
+| 3 | Gifted | Clearly above average; a natural talent or well-honed ability. |
+| 4 | Remarkable | Among the best in a nation; a true standout in their field. |
+| 5 | Peak Human | The pinnacle of human ability; legendary prowess that few ever achieve. |
+
 * **Physical:** Might (Power), Agility (Finesse), Vigor (Resistance)
 * **Social:** Presence (Power), Charm (Finesse), Composure (Resistance)
 * **Mental:** Intellect (Power), Wits (Finesse), Resolve (Resistance)

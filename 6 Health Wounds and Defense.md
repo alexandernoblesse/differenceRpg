@@ -7,6 +7,9 @@ Characters have three Health Pools. When a pool hits 0, the character takes one 
 * **Defeat:** A character is defeated when their accumulated Wounds of one type equal their corresponding Resistance Attribute.
 * **Wound Progression:** The first Wound of a type is Minor, the second is Moderate, and the third and subsequent are Severe.
 
+> **GM Note: Narrative First Wounds**
+> The Wound tables provide a quick way to determine the consequences of being defeated in a conflict. However, the GM should always prioritize the narrative. If the event that caused a Wound strongly suggests a specific outcome (e.g., an arrow to the leg causing a movement penalty, or a public insult causing humiliation), the GM is encouraged to choose the most fitting Injury, Burden, or Trauma from the lists directly, rather than rolling randomly.
+
 ### 6.2 Health Pool Calculation
 * Max Vitality = `3 * Vigor`
 * Max Poise = `3 * Composure`
